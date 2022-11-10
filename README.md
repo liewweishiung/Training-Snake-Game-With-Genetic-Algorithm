@@ -1,3 +1,9 @@
+# Installation
+1. conda install -n py2 python=2.7 anaconda -y
+2. git clone https://github.com/liewweishiung/Training-Snake-Game-With-Genetic-Algorithm.git
+3. cd Training-Snake-Game-With-Genetic-Algorithm
+4. python main.py
+
 # Training-Snake-Game-Using-Genetic-Algorithm
 
 main.py -  to start training snake game using genetic algorithm
